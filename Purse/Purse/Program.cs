@@ -17,6 +17,7 @@ namespace Purse
             var bcard = new BusinessCard.BusinessCard("Vova");
             Console.WriteLine(bcard.FindOutWhose());
             Console.WriteLine("This is working");
+            Console.WriteLine("This is working"); Console.WriteLine("This is working");
         }
     }
 }
